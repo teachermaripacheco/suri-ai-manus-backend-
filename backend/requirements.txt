@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+firebase-admin
+pydantic
+
+python-jose
+
+email-validator
+
+python-multipart
